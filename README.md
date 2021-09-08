@@ -13,4 +13,5 @@ Dataset Column Descriptions:
 - STATE - The US State where the fire began.
 - FIPS AND FIPS Name - Identifying US Counties and Fips.
 
-We would be using some of the `EDA` and `Data Visualization` techniques to get some insights into this dataset. 
+We would be using some of the `EDA` and `Data Visualization` techniques to get some insights into this dataset.
+##check
